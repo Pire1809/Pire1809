@@ -16,7 +16,7 @@ My background combines Applied Mathematics, Business Economics, Data Science, Ar
 - ☁️ Oracle Cloud HCM Expert
 - 🎓 B.S. in Applied Mathematics & Computer Science (UNAM)
 - 🎓 M.S. in Business Economics
-- 🎓 Graduate Studies in Data Science & Artificial Intelligence
+- 🎓 M.S. in Data Science & Artificial Intelligence
 - 🌎 Based in Houston, Texas
 
 ---
